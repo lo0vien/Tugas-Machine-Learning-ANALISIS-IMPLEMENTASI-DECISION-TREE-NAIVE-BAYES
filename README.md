@@ -1,4 +1,4 @@
-# 🌳 Decision Tree & Naive Bayes
+# Decision Tree & Naive Bayes
 
 Implementasi **Machine Learning** untuk memprediksi apakah mahasiswa **lulus tepat waktu** menggunakan algoritma Decision Tree dan Gaussian Naive Bayes.
 
